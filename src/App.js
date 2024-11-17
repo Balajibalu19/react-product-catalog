@@ -1,6 +1,6 @@
 // App.js
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom"; // Use HashRouter
 import { CartProvider } from "./context/CartContext"; // Import the CartProvider
 import ProductListPage from "./pages/ProductListPage";
 import ProductDetailsPage from "./pages/ProductDetailsPage";
@@ -30,6 +30,7 @@ const App = () => {
 };
 
 export default App;
+
 
 
 
