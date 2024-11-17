@@ -48,3 +48,4 @@ Solution: Utilized Tailwind CSS's responsive utilities for a consistent layout.
 1. Product Listing Page: ![Screenshot 2024-11-17 151211](https://github.com/user-attachments/assets/002a4069-49a8-4372-a3ef-52080d1a86ed)
 2. Cart Page: ![Screenshot 2024-11-17 151234](https://github.com/user-attachments/assets/691f27f5-dab2-4e7c-a86d-2fde599d9fda)
 3. Product Details Page: ![Screenshot 2024-11-17 151632](https://github.com/user-attachments/assets/3b9755bd-fa56-4723-9749-a2e396306c0c)
+4. ![Screenshot 2024-11-17 151613](https://github.com/user-attachments/assets/89ea0b50-b870-41a0-8337-76d817b8ccea)
