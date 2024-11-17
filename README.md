@@ -46,5 +46,5 @@ Solution: Utilized Tailwind CSS's responsive utilities for a consistent layout.
 
 # Screenshots
 1. Product Listing Page: ![Screenshot 2024-11-17 151211](https://github.com/user-attachments/assets/002a4069-49a8-4372-a3ef-52080d1a86ed)
-2. Cart Page
+2. Cart Page: ![Screenshot 2024-11-17 151234](https://github.com/user-attachments/assets/691f27f5-dab2-4e7c-a86d-2fde599d9fda)
 3. Product Details Page
