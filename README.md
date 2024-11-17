@@ -44,4 +44,7 @@ Solution: Utilized Tailwind CSS's responsive utilities for a consistent layout.
 1.Replaced text-based delete buttons with icons for a more modern look.
 2.Added hover effects and transitions to buttons for improved interactivity.
 
-
+# Screenshots
+1. Product Listing Page
+2. Cart Page
+3. Product Details Page
