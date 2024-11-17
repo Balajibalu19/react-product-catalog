@@ -16,18 +16,18 @@ bash
    git clone https://github.com/Balajibalu19/react-product-catalog
    cd product-catalog
 
-2.Install dependencies:
+# Install dependencies:
 bash 
   npm install
       and
-3.Run the server:
+# Run the server:
    npm start
 
 
 ### Libraries and Tools Used
 
-1.React: For building the UI.
-2.React Router: For navigation.
+# React: For building the UI.
+# React Router: For navigation.
 3.React Icons: For iconography.
 4.Tailwind CSS: For styling the application.
 
