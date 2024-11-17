@@ -16,18 +16,17 @@ bash
    git clone https://github.com/Balajibalu19/react-product-catalog
    cd product-catalog
 
-# Install dependencies:
+1.Install dependencies:
 bash 
   npm install
-      and
-# Run the server:
+  
+2.Run the server:
    npm start
 
 
-### Libraries and Tools Used
-
-# React: For building the UI.
-# React Router: For navigation.
+# Libraries and Tools Used
+1.React: For building the UI.
+2.React Router: For navigation.
 3.React Icons: For iconography.
 4.Tailwind CSS: For styling the application.
 
@@ -36,6 +35,7 @@ bash
 1.Cart State Management:
 Challenge: Keeping the cart state in sync when items were added or removed.
 Solution: Used React Context to manage global cart state.
+
 2.Responsive Design:
 Challenge: Ensuring the UI looked good on different devices.
 Solution: Utilized Tailwind CSS's responsive utilities for a consistent layout.
