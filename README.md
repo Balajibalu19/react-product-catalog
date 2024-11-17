@@ -1,5 +1,6 @@
-React Product Catalog
-Description
+###React Product Catalog
+
+##Description
 The React Product Catalog is a simple, responsive web application built with React. It allows users to browse products, view details, add items to their cart, and manage their cart efficiently.
 
 Installation and Setup
