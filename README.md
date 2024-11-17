@@ -45,6 +45,6 @@ Solution: Utilized Tailwind CSS's responsive utilities for a consistent layout.
 2.Added hover effects and transitions to buttons for improved interactivity.
 
 # Screenshots
-1. Product Listing Page
+1. Product Listing Page: ![Screenshot 2024-11-17 151211](https://github.com/user-attachments/assets/002a4069-49a8-4372-a3ef-52080d1a86ed)
 2. Cart Page
 3. Product Details Page
