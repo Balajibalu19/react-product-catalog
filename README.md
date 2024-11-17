@@ -11,15 +11,15 @@ A React-based product catalog application where users can browse products, add t
 
 ### Steps to Run the Application Locally:
 1. Clone the repository:
-   
-bash
    git clone https://github.com/Balajibalu19/react-product-catalog
+   
+2. Go to the project folder
    cd product-catalog
 
-1.Install dependencies:
-  npm install
+3. Install dependencies:
+   npm install
   
-2.Run the server:
+4. Run the server:
    npm start
 
 
