@@ -1,243 +1,242 @@
 [
-    {
-      "id": 1,
-      "name": "Wireless Headphones",
-      "category": "Electronics",
-      "price": 99.99,
-      "image": "https://img.freepik.com/free-photo/beautiful-middle-aged-woman-listening-music-through-headphones_23-2149051766.jpg?t=st=1731821577~exp=1731825177~hmac=ac945e57e50ebd2881bc951add88c6411eda8758ee97e03e52e153fabf87ebda&w=1060",
-      "description": "High-quality wireless headphones with noise cancellation."
-    },
-    {
-      "id": 2,
-      "name": "Smart Watch",
-      "category": "Electronics",
-      "price": 199.99,
-      "image": "https://img.freepik.com/free-photo/male-hand-adjusting-sport-watch_23-2148375929.jpg?t=st=1731821984~exp=1731825584~hmac=e1aba3bcf55c56e0deaa63dd3336e14e5d992dd7dacdd12d75e974be754c83a5&w=1060",
-      "description": "Stay connected on the go with this stylish smart watch."
-    },
-    {
-      "id": 3,
-      "name": "Bluetooth Speaker",
-      "category": "Electronics",
-      "price": 49.99,
-      "image": "https://img.freepik.com/free-photo/composition-smart-speaker-table_23-2149036845.jpg?t=st=1731819391~exp=1731822991~hmac=474f0090068255a7fb786a46378173845437a9bd06dc78bd65f9831f2138f250&w=1060",
-      "description": "Portable Bluetooth speaker with deep bass and long battery life."
-    },
-    {
-      "id": 4,
-      "name": "4K TV",
-      "category": "Electronics",
-      "price": 499.99,
-      "image": "https://img.freepik.com/free-photo/television-houseplants-room-scene-generative-ai_188544-12145.jpg?t=st=1731822293~exp=1731825893~hmac=c765562294aa708cacea0b69d44e457cb82c58e7cd40c0430098b0230a8d01a0&w=1380",
-      "description": "Ultra HD 4K smart TV with streaming capabilities."
-    },
-    {
-      "id": 5,
-      "name": "Gaming Laptop",
-      "category": "Electronics",
-      "price": 1299.99,
-      "image": "https://img.freepik.com/free-photo/high-angle-woman-playing-videogame-computer_23-2149349986.jpg?t=st=1731822342~exp=1731825942~hmac=49b81f0f6a45850de7f71769bc3f6658ce0f4ef18089e3b2e33a057704967dec&w=1060",
-      "description": "High-performance gaming laptop with advanced graphics."
-    },
-    {
-      "id": 6,
-      "name": "Noise-Canceling Earbuds",
-      "category": "Electronics",
-      "price": 79.99,
-      "image": "https://img.freepik.com/free-photo/handsome-curly-redhead-man-white-t-shirt-insert-earphones-his-ears_171337-7834.jpg?t=st=1731821424~exp=1731825024~hmac=5126c3f3be110e29e2a5fdaf535a2bef57c48abb7143b562423aed47f3d6c30f&w=1060",
-      "description": "Compact earbuds with active noise cancellation."
-    },
-    {
-      "id": 7,
-      "name": "Tablet",
-      "category": "Electronics",
-      "price": 299.99,
-      "image": "https://img.freepik.com/free-photo/lifestyle-man-home-with-tablet_144627-40255.jpg?t=st=1731822199~exp=1731825799~hmac=94e28d36d50560884243d3b922732ced7cd839b5829c4a8ddb725ebbfc8883e8&w=1060",
-      "description": "Lightweight tablet perfect for work and entertainment."
-    },
-    {
-      "id": 8,
-      "name": "Action Camera",
-      "category": "Electronics",
-      "price": 249.99,
-      "image": "https://img.freepik.com/free-photo/close-up-professional-camera-tripod_23-2148349441.jpg?t=st=1731822116~exp=1731825716~hmac=65ce0d3c686d1989aa0e34195b78a0fe00ca54f24970c4b02fdea282e7d2a520&w=900",
-      "description": "Capture your adventures with this durable action camera."
-    },
-    {
-      "id": 9,
-      "name": "Wireless Charger",
-      "category": "Electronics",
-      "price": 19.99,
-      "image": "https://img.freepik.com/free-photo/white-wireless-charger-pad-mobile-phone_53876-97099.jpg?t=st=1731818774~exp=1731822374~hmac=f0168bfcb5d57039fd01adeb0bdef61e4a4875a1f02e821453229a43b0105b74&w=1060",
-      "description": "Fast wireless charger compatible with all devices."
-    },
-    {
-      "id": 10,
-      "name": "VR Headset",
-      "category": "Electronics",
-      "price": 399.99,
-      "image": "https://img.freepik.com/free-photo/man-trying-futuristic-device_23-2148864989.jpg?t=st=1731822247~exp=1731825847~hmac=6f78039e1e4e501f72fba1eada69f787fb837ee06b6b21925495128483cd385c&w=1380",
-      "description": "Experience virtual reality with this immersive headset."
-    },
-    {
-      "id": 11,
-      "name": "Running Shoes",
-      "category": "Footwear",
-      "price": 59.99,
-      "image": "https://img.freepik.com/free-photo/preparing-hard-training-outdoors_329181-4369.jpg?t=st=1731821269~exp=1731824869~hmac=a5a7553419c51ccf8f7f56d1ffc4c8443d7386d32839f36526693a07c1ec682a&w=1060",
-      "description": "Comfortable and durable running shoes for all terrains."
-    },
-    {
-      "id": 12,
-      "name": "Casual Sneakers",
-      "category": "Footwear",
-      "price": 49.99,
-      "image": "https://img.freepik.com/free-photo/men-s-ankle-sneakers-yellow-street-style-apparel-shoot_53876-119820.jpg?t=st=1731819469~exp=1731823069~hmac=079eb9463a8580b73b182d90cdc50eecce5a2b9221b727afbd245442be558e59&w=1060",
-      "description": "Stylish sneakers perfect for everyday wear."
-    },
-    {
-      "id": 13,
-      "name": "Leather Boots",
-      "category": "Footwear",
-      "price": 129.99,
-      "image": "https://img.freepik.com/free-photo/pair-brown-leather-boots_1150-6005.jpg?t=st=1731821838~exp=1731825438~hmac=1f642c692dc7791a3ab9d0ce92c863bb07485647f55c25e75743c800a4073da2&w=360",
-      "description": "Classic leather boots with excellent durability."
-    },
-    {
-      "id": 14,
-      "name": "Sandals",
-      "category": "Footwear",
-      "price": 29.99,
-      "image": "https://img.freepik.com/free-photo/close-up-couple-s-legs-keds-standing-street_176420-6845.jpg?t=st=1731819193~exp=1731822793~hmac=b72d316c243e2790ad3b0312f2f52fb5464370abcf1bed9e25f9c821eb6d4a64&w=1060",
-      "description": "Comfortable sandals for summer outings."
-    },
-    {
-      "id": 15,
-      "name": "Sports Shoes",
-      "category": "Footwear",
-      "price": 89.99,
-      "image": "https://img.freepik.com/free-photo/close-up-football-player-feet-with-ball_23-2147833471.jpg?t=st=1731821530~exp=1731825130~hmac=7aaa8837daea12e699a888ab1e74b894961e350989ae1ab2a1487879c2ede159&w=1060",
-      "description": "High-performance sports shoes for athletes."
-    },
-    {
-      "id": 16,
-      "name": "Formal Shoes",
-      "category": "Footwear",
-      "price": 99.99,
-      "image": "https://img.freepik.com/free-photo/elegant-black-leather-shoes-men-black-background-photo-studio-style-ai-generative_123827-23442.jpg?t=st=1731821631~exp=1731825231~hmac=1d7f8fc5ccf044945c34e74eb4f687b6a79a519af7b74ea79c71bbfc7a574791&w=1060",
-      "description": "Elegant formal shoes for business and occasions."
-    },
-    {
-      "id": 17,
-      "name": "Slippers",
-      "category": "Footwear",
-      "price": 19.99,
-      "image": "https://img.freepik.com/free-photo/men-leather-sandal-flip-flop-shoes_1203-7697.jpg?t=st=1731818913~exp=1731822513~hmac=2946da614c357aa05ba817fc5304da51388e29d3c129eede32a76b57a417d389&w=1060",
-      "description": "Cozy slippers for indoor comfort."
-    },
-    {
-      "id": 18,
-      "name": "Hiking Boots",
-      "category": "Footwear",
-      "price": 139.99,
-      "image": "https://img.freepik.com/free-photo/person-wearing-brown-ivory-laceup-boots_60438-3578.jpg?t=st=1731821895~exp=1731825495~hmac=03d200d3e1c5a364286d426a23fd780d4fc0c46f50ace71e105e3f60bede5243&w=1380",
-      "description": "Durable hiking boots for adventurous trails."
-    },
-    {
-      "id": 19,
-      "name": "Flip Flops",
-      "category": "Footwear",
-      "price": 14.99,
-      "image": "https://img.freepik.com/free-photo/blue-flop-background-leisure-shoes_1203-6057.jpg?t=st=1731828651~exp=1731832251~hmac=cd646fdd4dfd5f521795929e24aae28bc651bc0851dd985e79e636fef1378a4a&w=1060",
-      "description": "Lightweight flip flops for beach and casual wear."
-    },
-    {
-      "id": 20,
-      "name": "Trail Running Shoes",
-      "category": "Footwear",
-      "price": 109.99,
-      "image": "https://img.freepik.com/free-photo/man-walking-through-rocks_23-2148776329.jpg?t=st=1731821788~exp=1731825388~hmac=70c65aac8f64853a04c00e5eaca811110d519b77365109df7601c5f47342dcc6&w=1060",
-      "description": "Rugged trail running shoes for off-road adventures."
-    },
-    {
-      "id": 21,
-      "name": "Leather Jacket",
-      "category": "Clothing",
-      "price": 199.99,
-      "image": "https://img.freepik.com/free-photo/handsome-bearded-man-expressing-confidence-touching-his-leather-jacket-looking-self-assured_1258-26696.jpg?t=st=1731822025~exp=1731825625~hmac=985b959a4ece3edd313807c6f6326e453eafa87f3b5ecd35bb5a30f7234aad68&w=1060",
-      "description": "Stylish leather jacket for cold weather."
-    },
-    {
-      "id": 22,
-      "name": "Denim Jeans",
-      "category": "Clothing",
-      "price": 59.99,
-      "image": "https://img.freepik.com/free-photo/bunch-jeans-twisted-wooden-wall-fashionable-clothes_169016-5205.jpg?t=st=1731821351~exp=1731824951~hmac=4e789107c33b4b8917c67b64737df0cf9efd5cf5c3be977e00225443e356e959&w=826",
-      "description": "Classic denim jeans with a modern fit."
-    },
-    {
-      "id": 23,
-      "name": "Cotton T-Shirt",
-      "category": "Clothing",
-      "price": 19.99,
-      "image": "https://img.freepik.com/free-photo/smiling-points-himself-young-handsome-guy-wearing-glasses-with-hat_141793-113971.jpg?t=st=1731828532~exp=1731832132~hmac=d746727372af4a2f4f78cc4c403e37ed9829f72dc2f122f447ad193f79b4f527&w=1060",
-      "description": "Soft and breathable cotton t-shirt."
-    },
-    {
-      "id": 24,
-      "name": "Sweat shirt",
-      "category": "Clothing",
-      "price": 39.99,
-      "image": "https://img.freepik.com/free-photo/young-person-wearing-hoodie-mockup_23-2149246138.jpg?t=st=1731819340~exp=1731822940~hmac=7d4b5eb225fffdccea2ad7aedb21db8475de47aceede28a2f3b5ff192a659b9e&w=360",
-      "description": "Cozy sweatshirt for lounging or casual wear."
-    },
-    {
-      "id": 25,
-      "name": "Blazer",
-      "category": "Clothing",
-      "price": 99.99,
-      "image": "https://img.freepik.com/free-photo/portrait-confident-businessman-glasses-with-smartphone_1262-12820.jpg?t=st=1731821716~exp=1731825316~hmac=a2546578315449c1ac53a3354de101fb18fb1e6d23f14c8972fafd3553e461a7&w=1060",
-      "description": "Elegant blazer for formal occasions."
-    },
-    {
-      "id": 26,
-      "name": "Chinos",
-      "category": "Clothing",
-      "price": 49.99,
-      "image": "https://img.freepik.com/free-photo/woman-wear-cheongsam-suit-smile-get-gift-money-from-boss-chinese-new-year_1150-35939.jpg?t=st=1731821197~exp=1731824797~hmac=0c45b63f565ff949e88fa8a7c8008ccacaad0ce27abb841b7cc8e4aa7994cbfb&w=1060",
-      "description": "Smart chinos for office and casual outings."
-    },
-    {
-      "id": 27,
-      "name": "Summer Dress",
-      "category": "Clothing",
-      "price": 29.99,
-      "image": "https://img.freepik.com/free-photo/stylish-beautiful-woman-red-hat-posing-blue_285396-4981.jpg?t=st=1731819278~exp=1731822878~hmac=2e2f912d337398e97275c2fd1a71c6dd1dd431610963b267ee8f3dcc5ed68c54&w=1060",
-      "description": "Light and flowy dress for warm days."
-    },
-    {
-      "id": 28,
-      "name": "Winter Coat",
-      "category": "Clothing",
-      "price": 149.99,
-      "image": "https://img.freepik.com/free-photo/relaxed-young-woman-posing-with-closed-eyes_197531-16881.jpg?t=st=1731821941~exp=1731825541~hmac=268e9000ac57a6011fe5efc172a8737440dbaa6a8bc8ff0470ffeb5b06da9949&w=1060",
-      "description": "Thick and warm coat for winter."
-    },
-    {
-      "id": 29,
-      "name": "Pajamas",
-      "category": "Clothing",
-      "price": 24.99,
-      "image": "https://img.freepik.com/free-photo/woman-wearing-pajamas-with-bunny-ears_273609-22266.jpg?t=st=1731819119~exp=1731822719~hmac=5fdf3e0af0cf46f3619cad6c0fb51d80154c5055f52a1ea1a90d43f5d9555e5e&w=1060",
-      "description": "Comfortable pajamas for a good night's sleep."
-    },
-    {
-      "id": 30,
-      "name": "Gym Shorts",
-      "category": "Clothing",
-      "price": 19.99,
-      "image": "https://img.freepik.com/free-photo/man-blue-board-shorts_53876-102064.jpg?t=st=1731819069~exp=1731822669~hmac=ec948353f224f34369f46a7af799186e22c01dbd5d2c99a004998ab596a1edde&w=1060",
-      "description": "Lightweight and breathable gym shorts."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 99.99,
+    "image": "https://img.freepik.com/free-photo/beautiful-middle-aged-woman-listening-music-through-headphones_23-2149051766.jpg?t=st=1731821577~exp=1731825177~hmac=ac945e57e50ebd2881bc951add88c6411eda8758ee97e03e52e153fabf87ebda&w=1060",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 199.99,
+    "image": "https://img.freepik.com/free-photo/male-hand-adjusting-sport-watch_23-2148375929.jpg?t=st=1731821984~exp=1731825584~hmac=e1aba3bcf55c56e0deaa63dd3336e14e5d992dd7dacdd12d75e974be754c83a5&w=1060",
+    "description": "Stay connected on the go with this stylish smart watch."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 49.99,
+    "image": "https://img.freepik.com/free-photo/composition-smart-speaker-table_23-2149036845.jpg?t=st=1731819391~exp=1731822991~hmac=474f0090068255a7fb786a46378173845437a9bd06dc78bd65f9831f2138f250&w=1060",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life."
+  },
+  {
+    "id": 4,
+    "name": "4K TV",
+    "category": "Electronics",
+    "price": 499.99,
+    "image": "https://img.freepik.com/free-photo/television-houseplants-room-scene-generative-ai_188544-12145.jpg?t=st=1731822293~exp=1731825893~hmac=c765562294aa708cacea0b69d44e457cb82c58e7cd40c0430098b0230a8d01a0&w=1380",
+    "description": "Ultra HD 4K smart TV with streaming capabilities."
+  },
+  {
+    "id": 5,
+    "name": "Gaming Laptop",
+    "category": "Electronics",
+    "price": 1299.99,
+    "image": "https://img.freepik.com/free-photo/high-angle-woman-playing-videogame-computer_23-2149349986.jpg?t=st=1731822342~exp=1731825942~hmac=49b81f0f6a45850de7f71769bc3f6658ce0f4ef18089e3b2e33a057704967dec&w=1060",
+    "description": "High-performance gaming laptop with advanced graphics."
+  },
+  {
+    "id": 6,
+    "name": "Noise-Canceling Earbuds",
+    "category": "Electronics",
+    "price": 79.99,
+    "image": "https://img.freepik.com/free-photo/handsome-curly-redhead-man-white-t-shirt-insert-earphones-his-ears_171337-7834.jpg?t=st=1731821424~exp=1731825024~hmac=5126c3f3be110e29e2a5fdaf535a2bef57c48abb7143b562423aed47f3d6c30f&w=1060",
+    "description": "Compact earbuds with active noise cancellation."
+  },
+  {
+    "id": 7,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 299.99,
+    "image": "https://img.freepik.com/free-photo/lifestyle-man-home-with-tablet_144627-40255.jpg?t=st=1731822199~exp=1731825799~hmac=94e28d36d50560884243d3b922732ced7cd839b5829c4a8ddb725ebbfc8883e8&w=1060",
+    "description": "Lightweight tablet perfect for work and entertainment."
+  },
+  {
+    "id": 8,
+    "name": "Action Camera",
+    "category": "Electronics",
+    "price": 249.99,
+    "image": "https://img.freepik.com/free-photo/close-up-professional-camera-tripod_23-2148349441.jpg?t=st=1731822116~exp=1731825716~hmac=65ce0d3c686d1989aa0e34195b78a0fe00ca54f24970c4b02fdea282e7d2a520&w=900",
+    "description": "Capture your adventures with this durable action camera."
+  },
+  {
+    "id": 9,
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 19.99,
+    "image": "https://img.freepik.com/free-photo/white-wireless-charger-pad-mobile-phone_53876-97099.jpg?t=st=1731818774~exp=1731822374~hmac=f0168bfcb5d57039fd01adeb0bdef61e4a4875a1f02e821453229a43b0105b74&w=1060",
+    "description": "Fast wireless charger compatible with all devices."
+  },
+  {
+    "id": 10,
+    "name": "VR Headset",
+    "category": "Electronics",
+    "price": 399.99,
+    "image": "https://img.freepik.com/free-photo/man-trying-futuristic-device_23-2148864989.jpg?t=st=1731822247~exp=1731825847~hmac=6f78039e1e4e501f72fba1eada69f787fb837ee06b6b21925495128483cd385c&w=1380",
+    "description": "Experience virtual reality with this immersive headset."
+  },
+  {
+    "id": 11,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 59.99,
+    "image": "https://img.freepik.com/free-photo/preparing-hard-training-outdoors_329181-4369.jpg?t=st=1731821269~exp=1731824869~hmac=a5a7553419c51ccf8f7f56d1ffc4c8443d7386d32839f36526693a07c1ec682a&w=1060",
+    "description": "Comfortable and durable running shoes for all terrains."
+  },
+  {
+    "id": 12,
+    "name": "Casual Sneakers",
+    "category": "Footwear",
+    "price": 49.99,
+    "image": "https://img.freepik.com/free-photo/men-s-ankle-sneakers-yellow-street-style-apparel-shoot_53876-119820.jpg?t=st=1731819469~exp=1731823069~hmac=079eb9463a8580b73b182d90cdc50eecce5a2b9221b727afbd245442be558e59&w=1060",
+    "description": "Stylish sneakers perfect for everyday wear."
+  },
+  {
+    "id": 13,
+    "name": "Leather Boots",
+    "category": "Footwear",
+    "price": 129.99,
+    "image": "https://img.freepik.com/free-photo/pair-brown-leather-boots_1150-6005.jpg?t=st=1731821838~exp=1731825438~hmac=1f642c692dc7791a3ab9d0ce92c863bb07485647f55c25e75743c800a4073da2&w=360",
+    "description": "Classic leather boots with excellent durability."
+  },
+  {
+    "id": 14,
+    "name": "Sandals",
+    "category": "Footwear",
+    "price": 29.99,
+    "image": "https://img.freepik.com/free-photo/close-up-couple-s-legs-keds-standing-street_176420-6845.jpg?t=st=1731819193~exp=1731822793~hmac=b72d316c243e2790ad3b0312f2f52fb5464370abcf1bed9e25f9c821eb6d4a64&w=1060",
+    "description": "Comfortable sandals for summer outings."
+  },
+  {
+    "id": 15,
+    "name": "Sports Shoes",
+    "category": "Footwear",
+    "price": 89.99,
+    "image": "https://img.freepik.com/free-photo/close-up-football-player-feet-with-ball_23-2147833471.jpg?t=st=1731821530~exp=1731825130~hmac=7aaa8837daea12e699a888ab1e74b894961e350989ae1ab2a1487879c2ede159&w=1060",
+    "description": "High-performance sports shoes for athletes."
+  },
+  {
+    "id": 16,
+    "name": "Formal Shoes",
+    "category": "Footwear",
+    "price": 99.99,
+    "image": "https://img.freepik.com/free-photo/elegant-black-leather-shoes-men-black-background-photo-studio-style-ai-generative_123827-23442.jpg?t=st=1731821631~exp=1731825231~hmac=1d7f8fc5ccf044945c34e74eb4f687b6a79a519af7b74ea79c71bbfc7a574791&w=1060",
+    "description": "Elegant formal shoes for business and occasions."
+  },
+  {
+    "id": 17,
+    "name": "Slippers",
+    "category": "Footwear",
+    "price": 19.99,
+    "image": "https://img.freepik.com/free-photo/men-leather-sandal-flip-flop-shoes_1203-7697.jpg?t=st=1731818913~exp=1731822513~hmac=2946da614c357aa05ba817fc5304da51388e29d3c129eede32a76b57a417d389&w=1060",
+    "description": "Cozy slippers for indoor comfort."
+  },
+  {
+    "id": 18,
+    "name": "Hiking Boots",
+    "category": "Footwear",
+    "price": 139.99,
+    "image": "https://img.freepik.com/free-photo/person-wearing-brown-ivory-laceup-boots_60438-3578.jpg?t=st=1731821895~exp=1731825495~hmac=03d200d3e1c5a364286d426a23fd780d4fc0c46f50ace71e105e3f60bede5243&w=1380",
+    "description": "Durable hiking boots for adventurous trails."
+  },
+  {
+    "id": 19,
+    "name": "Flip Flops",
+    "category": "Footwear",
+    "price": 14.99,
+    "image": "https://img.freepik.com/free-photo/blue-flop-background-leisure-shoes_1203-6057.jpg?t=st=1731828651~exp=1731832251~hmac=cd646fdd4dfd5f521795929e24aae28bc651bc0851dd985e79e636fef1378a4a&w=1060",
+    "description": "Lightweight flip flops for beach and casual wear."
+  },
+  {
+    "id": 20,
+    "name": "Trail Running Shoes",
+    "category": "Footwear",
+    "price": 109.99,
+    "image": "https://img.freepik.com/free-photo/man-walking-through-rocks_23-2148776329.jpg?t=st=1731821788~exp=1731825388~hmac=70c65aac8f64853a04c00e5eaca811110d519b77365109df7601c5f47342dcc6&w=1060",
+    "description": "Rugged trail running shoes for off-road adventures."
+  },
+  {
+    "id": 21,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "price": 199.99,
+    "image": "https://img.freepik.com/free-photo/handsome-bearded-man-expressing-confidence-touching-his-leather-jacket-looking-self-assured_1258-26696.jpg?t=st=1731822025~exp=1731825625~hmac=985b959a4ece3edd313807c6f6326e453eafa87f3b5ecd35bb5a30f7234aad68&w=1060",
+    "description": "Stylish leather jacket for cold weather."
+  },
+  {
+    "id": 22,
+    "name": "Denim Jeans",
+    "category": "Clothing",
+    "price": 59.99,
+    "image": "https://img.freepik.com/free-photo/bunch-jeans-twisted-wooden-wall-fashionable-clothes_169016-5205.jpg?t=st=1731821351~exp=1731824951~hmac=4e789107c33b4b8917c67b64737df0cf9efd5cf5c3be977e00225443e356e959&w=826",
+    "description": "Classic denim jeans with a modern fit."
+  },
+  {
+    "id": 23,
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "image": "https://img.freepik.com/free-photo/smiling-points-himself-young-handsome-guy-wearing-glasses-with-hat_141793-113971.jpg?t=st=1731828532~exp=1731832132~hmac=d746727372af4a2f4f78cc4c403e37ed9829f72dc2f122f447ad193f79b4f527&w=1060",
+    "description": "Soft and breathable cotton t-shirt."
+  },
+  {
+    "id": 24,
+    "name": "Sweat shirt",
+    "category": "Clothing",
+    "price": 39.99,
+    "image": "https://img.freepik.com/free-photo/young-person-wearing-hoodie-mockup_23-2149246138.jpg?t=st=1731819340~exp=1731822940~hmac=7d4b5eb225fffdccea2ad7aedb21db8475de47aceede28a2f3b5ff192a659b9e&w=360",
+    "description": "Cozy sweatshirt for lounging or casual wear."
+  },
+  {
+    "id": 25,
+    "name": "Blazer",
+    "category": "Clothing",
+    "price": 99.99,
+    "image": "https://img.freepik.com/free-photo/portrait-confident-businessman-glasses-with-smartphone_1262-12820.jpg?t=st=1731821716~exp=1731825316~hmac=a2546578315449c1ac53a3354de101fb18fb1e6d23f14c8972fafd3553e461a7&w=1060",
+    "description": "Elegant blazer for formal occasions."
+  },
+  {
+    "id": 26,
+    "name": "Chinos",
+    "category": "Clothing",
+    "price": 49.99,
+    "image": "https://img.freepik.com/free-photo/woman-wear-cheongsam-suit-smile-get-gift-money-from-boss-chinese-new-year_1150-35939.jpg?t=st=1731821197~exp=1731824797~hmac=0c45b63f565ff949e88fa8a7c8008ccacaad0ce27abb841b7cc8e4aa7994cbfb&w=1060",
+    "description": "Smart chinos for office and casual outings."
+  },
+  {
+    "id": 27,
+    "name": "Summer Dress",
+    "category": "Clothing",
+    "price": 29.99,
+    "image": "https://img.freepik.com/free-photo/stylish-beautiful-woman-red-hat-posing-blue_285396-4981.jpg?t=st=1731819278~exp=1731822878~hmac=2e2f912d337398e97275c2fd1a71c6dd1dd431610963b267ee8f3dcc5ed68c54&w=1060",
+    "description": "Light and flowy dress for warm days."
+  },
+  {
+    "id": 28,
+    "name": "Winter Coat",
+    "category": "Clothing",
+    "price": 149.99,
+    "image": "https://img.freepik.com/free-photo/relaxed-young-woman-posing-with-closed-eyes_197531-16881.jpg?t=st=1731821941~exp=1731825541~hmac=268e9000ac57a6011fe5efc172a8737440dbaa6a8bc8ff0470ffeb5b06da9949&w=1060",
+    "description": "Thick and warm coat for winter."
+  },
+  {
+    "id": 29,
+    "name": "Pajamas",
+    "category": "Clothing",
+    "price": 24.99,
+    "image": "https://img.freepik.com/free-photo/woman-wearing-pajamas-with-bunny-ears_273609-22266.jpg?t=st=1731819119~exp=1731822719~hmac=5fdf3e0af0cf46f3619cad6c0fb51d80154c5055f52a1ea1a90d43f5d9555e5e&w=1060",
+    "description": "Comfortable pajamas for a good night's sleep."
+  },
+  {
+    "id": 30,
+    "name": "Gym Shorts",
+    "category": "Clothing",
+    "price": 19.99,
+    "image": "https://img.freepik.com/free-photo/man-blue-board-shorts_53876-102064.jpg?t=st=1731819069~exp=1731822669~hmac=ec948353f224f34369f46a7af799186e22c01dbd5d2c99a004998ab596a1edde&w=1060",
+    "description": "Lightweight and breathable gym shorts."
+  }
+]
